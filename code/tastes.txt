@@ -1,0 +1,5 @@
+Red: spice, spicy, hot, peppery, fiery, tangy, strong, intense, chili, pungent
+Blue: sweet, creamy, honeyed, smooth, mellow, soft, mild, comforting, rich
+Yellow: sour, tart, citrusy, zingy, punchy, bold, refreshing, fruity, sharp
+Green: bitter, earthy, deep, dark, herbal, strong, robust, organic, raw
+Purple: umami, savory, fermented, aged, smoky, hearty, complex, rich, flavorful

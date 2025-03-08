@@ -1,0 +1,5 @@
+Red: work, working, sports, run, running, competition, lifting, lift, train, training, gym, race, racing, box, boxing, wrestling, wrestle
+Blue: read, reading, write, writing, journal, journaling, study, studying, puzzle, puzzles, chess, meditate, meditating, reflect, reflecting, researching, research, strategy, games
+Yellow: hang, hanging, concert, concerts, talk, socialize, socializing, party, partying, dance dancing, sing, singing, karaoke, festival, festivals, travel traveling, meet, meeting
+Green: cook, cooking, garden, gardening, bake, baking, knit, crochet, knitting, fish, fishing, birdwatch, birdwatching, volunteer, volunteering, walk, walking, plant planting, crafting, making
+Purple: paint, painting, sleep, sleeping, music, play, playing, listen, listening, watch, watching, sketch, draw, sketching, collect, collecting, thrift, thrifting, create, make, creating

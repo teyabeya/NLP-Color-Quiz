@@ -1,0 +1,5 @@
+Red: confidence, energy, leadership, ambition, motivation, bravery, drive, passion, boldness, strength
+Blue: trust, wisdom, calm, sincerity, loyalty, understanding, patience, reliability, honesty, depth
+Yellow: funny, fun, humor, enthusiasm, warmth, joy, excitement, cheerfulness, outgoing, spontaneity, optimism
+Green: kindness, generosity, balance, dependability, support, empathy, caring, gentleness, peace, nurture
+Purple: mystery, creativity, individuality, uniqueness, imagination, expression, curiosity, introspection, originality

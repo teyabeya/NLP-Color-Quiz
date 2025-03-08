@@ -1,0 +1,5 @@
+Red: summer, blazing, scorching, dry, sunbathing, desert, heatwave, tropical, hottest, hot
+Blue: winter, crisp, snowfall, frost, icy, cozy, frozen, quiet
+Yellow: spring, breezy, mild, sun, sunny, sunshine, blooming, longer, fresh, colorful, warmest
+Green: autumn, cool, golden, pumpkin, harvest, forest, earthy, changing
+Purple: overcast, mist, misty, twilight, deep, fog, storms, stormy, foggy, moonlit, moonlight, moody, shadowy, shade, shady
